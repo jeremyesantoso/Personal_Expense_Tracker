@@ -30,6 +30,6 @@ To run this project locally on your machine, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Personal_Expense_Tracker.git](https://github.com/YOUR_USERNAME/Personal_Expense_Tracker.git)
+git clone [https://github.com/YOUR_USERNAME/Personal_Expense_Tracker.git](https://github.com/jeremyesantoso/Personal_Expense_Tracker.git)
 cd Personal_Expense_Tracker
 ```
